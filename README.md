@@ -1,4 +1,4 @@
-# 🏄‍♂️ Shaxruxxan Tleubaev
+# 🏄‍♂️ Shakhrukhkhan Tleubaev
 **`Backend Developer (Python/Django)`**
 
 <br>
